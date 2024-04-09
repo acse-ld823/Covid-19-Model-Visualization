@@ -81,7 +81,7 @@ P(healthy) = min((60% + (infectedTimes * 50%)), 95%)
 
 
 To run the project:
-1. download to the local computer: git clone https://github.sydney.edu.au/lcui5406/portfolio.git
+1. download to the local computer: git clone https://github.com/acse-ld823/Covid-19-Model-Visualization.git
 2. open it with VScode.
 3. go to final_project folder
 4. right click the index.html and choose Open with Live Server.
