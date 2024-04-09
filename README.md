@@ -1,6 +1,6 @@
 # The final project deleverable
 
-## Here is the modal that we set for this project:
+## Here is the modal that is set for this project:
 ### Each circle in the screen represents a person. Each person has four status:
 1. Healthy: represented by color white.
 2. Becoming Infected: represented by color yellow.
